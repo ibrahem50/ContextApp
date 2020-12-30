@@ -1,4 +1,4 @@
-App using reactjs , Context.
+App using reactjs , Context&Hooks.
 
 # Getting Started with Create React App
 
